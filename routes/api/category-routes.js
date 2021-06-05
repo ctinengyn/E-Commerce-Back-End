@@ -27,6 +27,8 @@ router.get('/:id', (req, res) => {
 });
 
 router.post('/', (req, res) => {
+  Category.create(req.body)
+  
   // create a new category
 });
 
