@@ -20,7 +20,8 @@ router.get('/:id', (req, res) => {
     },
     include: [Product],
   })
-  
+  .then((category) => res.json(category))
+  .catch((err) => res.status(400).json(err));
   // find one category by its `id` value
   // be sure to include its associated Products
 });
