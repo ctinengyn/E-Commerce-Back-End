@@ -8,7 +8,10 @@ router.get('/', (req, res) => {
   Product.findAll({
     include: [
       Category,
-      
+      {
+        model: Tag,
+        through: ProductTag,
+      }
     ]
   })
   // find all products
