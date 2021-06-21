@@ -8,3 +8,9 @@
   - `npm install`
 - To start the server, in the command line run: 
   - `npm start`
+
+## Tech Used
+- Node
+- Express
+- MySQL
+- Sequelize
