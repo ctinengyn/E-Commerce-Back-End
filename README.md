@@ -21,3 +21,6 @@
 - Express
 - MySQL
 - Sequelize
+
+## Contact
+:octocat: [Christine Nguyen](https://github.com/ctinengyn)
