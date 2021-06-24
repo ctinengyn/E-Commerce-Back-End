@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/mySQL-blue"  />
 </p>
 
+## Description
+This application is the creation of the backend for an E-Commerce website. Express.js was used for the server and MySQL for the database along with Sequelize as the ORM to run SQL models and queries. The SQL database includes tables for the products, categories, tags, and product tags. RESTful API ruotes are used to make requests and updates from the database which are joined through Sequelize queries.
+
 ## User Story
   
 ```
@@ -47,4 +50,5 @@ THEN I am able to successfully create, update, and delete data in my database
 - Sequelize
 
 ## Contact
-:octocat: [Christine Nguyen](https://github.com/ctinengyn)
+- [Christine Nguyen](https://github.com/ctinengyn)
+- ctine.ngyn@gmail.com
