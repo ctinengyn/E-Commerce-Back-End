@@ -34,6 +34,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Example Links
 - [Category Route](https://drive.google.com/file/d/1RUi6xNFBYwuea1XMZGVp80GuCfrQc8cs/)
+- [Product Route](https://drive.google.com/file/d/1mVM0ov65sh-ZyLV2RC_ULAuTI5BubKro/)
 
 ## Installation
 - Both Node.js and MySQL must be installed on your computer.
